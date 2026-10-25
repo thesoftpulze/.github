@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/thesoftpulze/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not in public issues.
+  - name: Products, custom work and sales
+    url: https://softpulze.com/contact
+    about: Questions about SoftPulze products or custom projects.

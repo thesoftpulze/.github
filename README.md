@@ -7,6 +7,12 @@ This repository holds the public organization profile and shared defaults for [S
 | Path | Purpose |
 |---|---|
 | [`profile/README.md`](profile/README.md) | The profile shown at [github.com/thesoftpulze](https://github.com/thesoftpulze). |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to report bugs, suggest features and open pull requests. |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Community standards, adapted from the Contributor Covenant 2.1. |
+| [`SECURITY.md`](SECURITY.md) | How to report vulnerabilities privately. |
+| [`SUPPORT.md`](SUPPORT.md) | Where to get help with projects and products. |
+| [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE) | Bug report and feature request forms. |
+| [`.github/pull_request_template.md`](.github/pull_request_template.md) | Default pull request description. |
 
 ## Community health files
 
